@@ -4,12 +4,16 @@ lastUpdated: 2018-07-31
 
 # Introduction
 
+----
+
 このチュートリアルでは以下のことを行います。
 
 1. [enebularへのサインアップ](#enebularへのサインアップ)
 1. [Project の作成](#Projectの作成)
 1. [Asset(フロー)の作成](#Assetの作成)
 1. [フローの編集](#フローの編集)
+
+----
 
 ## enebularへのサインアップ
 
